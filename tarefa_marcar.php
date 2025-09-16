@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -11,10 +11,11 @@
 </head>
 
 <body>
-    <form method="post">
+    <form method="post" action="tarefa_inserir.php">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
+                <br>
                 <h2>Tarefa :: Marcar</h2>
                 <div class="form-group">
                     <label>Descrição</label>
